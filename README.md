@@ -1,10 +1,10 @@
 # CheckComponents
 
 Este repositorio es para ver el estado de la aplicación lab
-- [ ] Usuarios
-- [ ] Empresas
-- [ ] Compañias
-- [ ] Librerias generales
-- [ ] Laboratorios
+- [X] Usuarios
+- [x] Empresas
+- [x] Compañias
+- [x] Librerias generales
+- [x] Laboratorios
 - [ ] Unidades
 
